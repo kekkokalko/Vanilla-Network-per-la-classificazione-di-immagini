@@ -1,4 +1,11 @@
-Progetto universitario proposto per l'esame di Machine Learning (Mod B. Neural Network & Deep Learning).
+# Vanilla Network per la classificatione di immagini
+
+<p align= "center">
+<img src=https://github.com/kekkokalko/Vanilla-Network-per-la-classificatione-di-immagini/assets/94131849/ad5f3841-5de4-45c0-a5e1-b7190261bfac>
+
+    
+
+## Progetto universitario proposto per l'esame di Machine Learning (Mod B. Neural Network & Deep Learning).
 
 La traccia di tale progetto è la seguente:
 
@@ -26,4 +33,7 @@ invariati le funzioni di attivazione. Se è necessario, per questioni di tempi c
 spazio in memoria, si possono ridurre le dimensioni delle immagini raw del dataset mnist
 (ad esempio utilizzando in matlab la funzione imresize)
 
+Il seguente progetto fa uso della libreria Numpy e Matplotlib.
+
+Anno Accademico 2023/2024
 
